@@ -11,8 +11,12 @@ Digital Library Application for Library Book Management
 - Admin can upload a book
 - Admin can delete book
 
+# Note
 
-# Users Image
+This application is divided into two, namely user and admin applications, if you want to see the source of the admin application, open the ADMIN_APP folder
+
+
+# User Images
 
 <p align="center">
 <img src="https://github.com/Jahirrrr/DigiLib/blob/3ba253ec70a448143219e56ce9e75024bf44a91c/Screenshot_2024-02-04-19-58-27-028_com.digitalibrary.polyvorlabs-edit.jpg" alt="image"></a>
@@ -33,6 +37,22 @@ Digital Library Application for Library Book Management
 <p align="center">
 <img src="https://github.com/Jahirrrr/DigiLib/blob/3ba253ec70a448143219e56ce9e75024bf44a91c/Screenshot_2024-02-04-20-00-05-223_com.digitalibrary.polyvorlabs-edit.jpg" alt="image"></a>
 </p>
+
+
+# Admin Images
+
+<p align="center">
+<img src="https://github.com/Jahirrrr/DigiLib/blob/4ee420505010102ec725687cb5d505527c2185b8/ADMIN_APP/Screenshot_2024-02-04-20-22-07-525_com.digitalibraryadmin.polyvorlabs-edit.jpg" alt="image"></a>
+</p>
+
+<p align="center">
+<img src="https://github.com/Jahirrrr/DigiLib/blob/4ee420505010102ec725687cb5d505527c2185b8/ADMIN_APP/Screenshot_2024-02-04-20-22-19-287_com.digitalibraryadmin.polyvorlabs-edit.jpg" alt="image"></a>
+</p>
+
+<p align="center">
+<img src="https://github.com/Jahirrrr/DigiLib/blob/4ee420505010102ec725687cb5d505527c2185b8/ADMIN_APP/Screenshot_2024-02-04-20-22-35-570_com.digitalibraryadmin.polyvorlabs-edit.jpg" alt="image"></a>
+</p>
+
 
 
 # Firebase Settings
